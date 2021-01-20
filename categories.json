@@ -1,0 +1,43 @@
+[
+    {
+        "id" : 1,
+        "name": "action",
+        "imageUrl": "https://drive.google.com/uc?export=view&id=1sHCDaDzRBNHFIzUXKmsPugwE8PK53QxS"
+    },
+    {
+        "id" : 2,
+        "name": "fantasy",
+        "imageUrl": "https://drive.google.com/uc?export=view&id=1hztUNChMJY8jHu-JlUkEI0EQVFxjYd80"
+    },
+    {
+        "id" : 3,
+        "name": "war",
+        "imageUrl": "https://drive.google.com/uc?export=view&id=1VXje80viC7Tplu9NHVS-lEesKK3nwwUb"
+    },
+    {
+        "id" : 4,
+        "name": "history",
+        "imageUrl": "https://drive.google.com/uc?export=view&id=10EQjXqI-er-GqiM7rrCN8yC0yAvGqbMz"
+    },
+    {
+        "id" : 5,
+        "name": "comedy",
+        "imageUrl": "https://drive.google.com/uc?export=view&id=13-T09NHa3I6gjZflfpWGS8hCX6O_6nmi"
+    },
+    {
+        "id" : 6,
+        "name": "thriller",
+        "imageUrl": "https://drive.google.com/uc?export=view&id=1ReflLVBtpreDZvG6AXNn7emeW9FJKShJ"
+    },
+    {
+        "id" : 7,
+        "name": "horror",
+        "imageUrl": "https://drive.google.com/uc?export=view&id=11FLmIf_VFsOTKTDBmMBYujBsa7v0WHVo"
+    },
+    {
+        "id" : 8,
+        "name": "crime",
+        "imageUrl": "https://drive.google.com/uc?export=view&id=1yo7XKCsOuanBbKilthYKDnOKuHg60Rds"
+    }
+
+]
