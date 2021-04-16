@@ -41,8 +41,18 @@
     },
     {
         "id" : 9,
+        "name": "animation",
+        "imageUrl": "https://drive.google.com/uc?export=view&id=1cC_z_fMZBqLE8VNrEnte5F6gH5qcs97c"
+    },
+    {
+        "id" : 10,
         "name": "myanmar",
         "imageUrl": "https://drive.google.com/uc?export=view&id=1ByEtAIlEsR472o3AfqwEPhSHS8LZs7M7"
+    },
+    {
+        "id" : 11,
+        "name": "game",
+        "imageUrl": "https://drive.google.com/uc?export=view&id=1pgnLov6E83p8gk0dT4SU6nW17clPp8M4"
     }
 
 ]
