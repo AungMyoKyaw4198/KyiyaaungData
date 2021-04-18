@@ -53,6 +53,11 @@
         "id" : 11,
         "name": "game",
         "imageUrl": "https://drive.google.com/uc?export=view&id=1pgnLov6E83p8gk0dT4SU6nW17clPp8M4"
+    },
+    {
+        "id" : 12,
+        "name": "documentary",
+        "imageUrl": "https://drive.google.com/uc?export=view&id=1LP9MDidNn_trXTOgIqb-vOM6W1mtj3NM"
     }
 
 ]
