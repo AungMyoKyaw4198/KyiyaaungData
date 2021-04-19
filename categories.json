@@ -2,62 +2,62 @@
     {
         "id" : 1,
         "name": "action",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=1sHCDaDzRBNHFIzUXKmsPugwE8PK53QxS"
+        "imageUrl": "https://i.imgur.com/SHluh9V.jpg"
     },
     {
         "id" : 2,
         "name": "fantasy",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=1hztUNChMJY8jHu-JlUkEI0EQVFxjYd80"
+        "imageUrl": "https://i.imgur.com/TXEhHSY.png"
     },
     {
         "id" : 3,
         "name": "war",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=1VXje80viC7Tplu9NHVS-lEesKK3nwwUb"
+        "imageUrl": "https://i.imgur.com/F1DU1Eh.jpg"
     },
     {
         "id" : 4,
         "name": "history",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=10EQjXqI-er-GqiM7rrCN8yC0yAvGqbMz"
+        "imageUrl": "https://i.imgur.com/gDIQTwZ.jpg"
     },
     {
         "id" : 5,
         "name": "comedy",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=13-T09NHa3I6gjZflfpWGS8hCX6O_6nmi"
+        "imageUrl": "https://i.imgur.com/a2JfdXC.jpg"
     },
     {
         "id" : 6,
         "name": "thriller",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=1ReflLVBtpreDZvG6AXNn7emeW9FJKShJ"
+        "imageUrl": "https://i.imgur.com/CJ1pF0I.jpg"
     },
     {
         "id" : 7,
         "name": "horror",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=11FLmIf_VFsOTKTDBmMBYujBsa7v0WHVo"
+        "imageUrl": "https://i.imgur.com/4VNB4Sl.jpg"
     },
     {
         "id" : 8,
         "name": "crime",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=1yo7XKCsOuanBbKilthYKDnOKuHg60Rds"
+        "imageUrl": "https://i.imgur.com/LMgzTlP.jpg"
     },
     {
         "id" : 9,
         "name": "animation",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=1cC_z_fMZBqLE8VNrEnte5F6gH5qcs97c"
+        "imageUrl": "https://i.imgur.com/TydsWBq.jpg"
     },
     {
         "id" : 10,
         "name": "myanmar",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=1ByEtAIlEsR472o3AfqwEPhSHS8LZs7M7"
+        "imageUrl": "https://i.imgur.com/SLr0m3J.jpg"
     },
     {
         "id" : 11,
         "name": "game",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=1pgnLov6E83p8gk0dT4SU6nW17clPp8M4"
+        "imageUrl": "https://i.imgur.com/IDrKjgp.jpg"
     },
     {
         "id" : 12,
         "name": "documentary",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=1LP9MDidNn_trXTOgIqb-vOM6W1mtj3NM"
+        "imageUrl": "https://i.imgur.com/9uIUr2T.jpg"
     }
 
 ]
