@@ -16,8 +16,8 @@
     },
     {
         "id" : 4,
-        "name": "history",
-        "imageUrl": "https://i.imgur.com/gDIQTwZ.jpg"
+        "name": "drama",
+        "imageUrl": "https://i.imgur.com/YJ43GuX.jpg"
     },
     {
         "id" : 5,
@@ -51,11 +51,16 @@
     },
     {
         "id" : 11,
+        "name": "history",
+        "imageUrl": "https://i.imgur.com/gDIQTwZ.jpg"
+    },
+    {
+        "id" : 12,
         "name": "game",
         "imageUrl": "https://i.imgur.com/IDrKjgp.jpg"
     },
     {
-        "id" : 12,
+        "id" : 13,
         "name": "documentary",
         "imageUrl": "https://i.imgur.com/9uIUr2T.jpg"
     }
